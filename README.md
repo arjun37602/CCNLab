@@ -1,4 +1,4 @@
-# CCNlab
+# Computational Cognitive Neuroscience Lab Research
 1. Stickk EDA
 
 Objective: Analyze user behavior and goal achievement patterns from Stickk commitment contracts.
